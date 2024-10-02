@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c40294a045995f7",
+        "id": "7ce67117906576b6",
         "type": "tabs",
         "children": [
           {
-            "id": "c4863b7808ac905b",
+            "id": "f2530795dc6e614b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
             }
           }
         ]
@@ -60,8 +62,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b0bfd4311a9b23b2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,15 +141,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4862cc255568ae87",
+  "active": "f2530795dc6e614b",
   "lastOpenFiles": [
     "physics/UCL/PHAS0040/problem_set_3/PROBLEM_SET_3.pdf",
     "physics/UCL/PHAS0040/problem_set_3/problem_set_3.pdf"
